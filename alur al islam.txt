@@ -1,0 +1,4 @@
+jadi nu ieumah t konsepna t ubah jadwal, pertama t aya crontab, nyokot jadwal di hfis
+user nanti ubah jadwal dokter, samain jeng hfis, baru di kirim ulang , kirim ulangnya di hapus perjanjian, hapus kode booking bpjs, terus simpen log na , pindahin jadwal,
+dikirimnya baru besok lewat crontab
+si lognya yang dikirim
