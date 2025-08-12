@@ -570,6 +570,44 @@
         <mxCell id="NE3P6UQoLxqCQ14ZgFWn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NE3P6UQoLxqCQ14ZgFWn-3" source="NE3P6UQoLxqCQ14ZgFWn-17" target="NE3P6UQoLxqCQ14ZgFWn-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wZiHc1UdwxfF4jfSpwar-1" target="wZiHc1UdwxfF4jfSpwar-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-1" value="kirim data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="1352" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-5" value="ada" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wZiHc1UdwxfF4jfSpwar-2" target="wZiHc1UdwxfF4jfSpwar-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-11" value="tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wZiHc1UdwxfF4jfSpwar-2" target="wZiHc1UdwxfF4jfSpwar-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-2" value="ada nik pasien ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="1321" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-7" value="ada" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wZiHc1UdwxfF4jfSpwar-4" target="wZiHc1UdwxfF4jfSpwar-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-9" value="NIK nakes harus sama" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wZiHc1UdwxfF4jfSpwar-4" target="wZiHc1UdwxfF4jfSpwar-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-10" value="tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wZiHc1UdwxfF4jfSpwar-4" target="wZiHc1UdwxfF4jfSpwar-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2210" y="1510" />
+              <mxPoint x="1810" y="1510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-4" value="ada ihs nakes ?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="1321" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-6" value="terkirim" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="1352" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZiHc1UdwxfF4jfSpwar-8" value="SDMK" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
