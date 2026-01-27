@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="P_yoEFh0NRZQDShIkgBT">
+    <mxGraphModel dx="1102" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="supp" vertex="1">
+          <mxGeometry height="360" width="200" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-4" parent="MgMZuw9GEaBpi2ti2Z9Z-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Obat A - umum" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-5" parent="MgMZuw9GEaBpi2ti2Z9Z-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Obat A - BPJS" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Gudang Farmasi" vertex="1">
+          <mxGeometry height="360" width="200" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-13" edge="1" parent="MgMZuw9GEaBpi2ti2Z9Z-2" source="MgMZuw9GEaBpi2ti2Z9Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MgMZuw9GEaBpi2ti2Z9Z-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-10" parent="MgMZuw9GEaBpi2ti2Z9Z-2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="Penerimaan" vertex="1">
+          <mxGeometry height="80" width="80" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-12" parent="MgMZuw9GEaBpi2ti2Z9Z-2" style="whiteSpace=wrap;html=1;rounded=0;" value="stok" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Gudang Farmasi BPJS" vertex="1">
+          <mxGeometry height="360" width="200" x="440" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-9" edge="1" parent="MgMZuw9GEaBpi2ti2Z9Z-3" source="MgMZuw9GEaBpi2ti2Z9Z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MgMZuw9GEaBpi2ti2Z9Z-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-6" parent="MgMZuw9GEaBpi2ti2Z9Z-3" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="penerimaan" vertex="1">
+          <mxGeometry height="80" width="80" x="50" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-8" parent="MgMZuw9GEaBpi2ti2Z9Z-3" style="whiteSpace=wrap;html=1;rounded=0;" value="stok" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-7" edge="1" parent="1" source="MgMZuw9GEaBpi2ti2Z9Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="MgMZuw9GEaBpi2ti2Z9Z-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-11" edge="1" parent="1" source="MgMZuw9GEaBpi2ti2Z9Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="MgMZuw9GEaBpi2ti2Z9Z-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-14" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="supp" vertex="1">
+          <mxGeometry height="440" width="200" x="40" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-15" parent="MgMZuw9GEaBpi2ti2Z9Z-14" style="rounded=0;whiteSpace=wrap;html=1;" value="Obat A - umum" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-26" edge="1" parent="MgMZuw9GEaBpi2ti2Z9Z-14" source="MgMZuw9GEaBpi2ti2Z9Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-16" parent="MgMZuw9GEaBpi2ti2Z9Z-14" style="rounded=0;whiteSpace=wrap;html=1;" value="Obat A - BPJS" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-17" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Gudang Farmasi" vertex="1">
+          <mxGeometry height="440" width="200" x="240" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-28" edge="1" parent="MgMZuw9GEaBpi2ti2Z9Z-17" source="MgMZuw9GEaBpi2ti2Z9Z-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MgMZuw9GEaBpi2ti2Z9Z-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-19" parent="MgMZuw9GEaBpi2ti2Z9Z-17" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="Penerimaan" vertex="1">
+          <mxGeometry height="80" width="80" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-30" edge="1" parent="MgMZuw9GEaBpi2ti2Z9Z-17" source="MgMZuw9GEaBpi2ti2Z9Z-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MgMZuw9GEaBpi2ti2Z9Z-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-27" parent="MgMZuw9GEaBpi2ti2Z9Z-17" style="whiteSpace=wrap;html=1;rounded=0;" value="persediaan" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-29" parent="MgMZuw9GEaBpi2ti2Z9Z-17" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="distribusi" vertex="1">
+          <mxGeometry height="80" width="80" x="60" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-21" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="instalasi farmasi umum" vertex="1">
+          <mxGeometry height="440" width="200" x="440" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-31" parent="MgMZuw9GEaBpi2ti2Z9Z-21" style="whiteSpace=wrap;html=1;rounded=0;" value="stok obat A" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-25" edge="1" parent="1" source="MgMZuw9GEaBpi2ti2Z9Z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MgMZuw9GEaBpi2ti2Z9Z-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-32" edge="1" parent="1" source="MgMZuw9GEaBpi2ti2Z9Z-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MgMZuw9GEaBpi2ti2Z9Z-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-33" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="instalasi farmasi umum" vertex="1">
+          <mxGeometry height="440" width="200" x="640" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-34" parent="MgMZuw9GEaBpi2ti2Z9Z-33" style="whiteSpace=wrap;html=1;rounded=0;" value="stok obat A BPJS" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MgMZuw9GEaBpi2ti2Z9Z-35" edge="1" parent="1" source="MgMZuw9GEaBpi2ti2Z9Z-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="MgMZuw9GEaBpi2ti2Z9Z-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
