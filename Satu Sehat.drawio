@@ -8,31 +8,31 @@
           <mxGeometry height="440" width="817.34" x="10" y="50" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Otomatis" vertex="1">
-          <mxGeometry height="30" width="60" x="120" y="150" as="geometry" />
+          <mxGeometry height="30" width="60" x="140" y="150" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="Kunjungan" vertex="1">
-          <mxGeometry height="30" width="60" x="120" y="120" as="geometry" />
+          <mxGeometry height="30" width="60" x="140" y="120" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="TTV" vertex="1">
-          <mxGeometry height="30" width="60" x="530" y="120" as="geometry" />
+          <mxGeometry height="30" width="60" x="540" y="120" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="ICD 9" vertex="1">
-          <mxGeometry height="30" width="60" x="720" y="120" as="geometry" />
+          <mxGeometry height="30" width="60" x="740" y="120" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="Alergi" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="270" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="E-Resep" vertex="1">
-          <mxGeometry height="30" width="60" x="320" y="190" as="geometry" />
+          <mxGeometry height="30" width="60" x="350" y="190" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;RS PMI&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="ICD 10" vertex="1">
-          <mxGeometry height="30" width="60" x="320" y="120" as="geometry" />
+          <mxGeometry height="30" width="60" x="350" y="120" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="Lab" vertex="1">
-          <mxGeometry height="30" width="60" x="340" y="410" as="geometry" />
+          <mxGeometry height="30" width="60" x="350" y="410" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="Askep &lt;br&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Rencana Tindak Lanjut&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="720" y="340" as="geometry" />
@@ -41,10 +41,31 @@
           <mxGeometry height="30" width="60" x="350" y="340" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="PACS" vertex="1">
-          <mxGeometry height="30" width="60" x="320" y="270" as="geometry" />
+          <mxGeometry height="30" width="60" x="350" y="270" as="geometry" />
         </mxCell>
         <mxCell id="J7StTnS2y_UuYT5Cc5o7-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="Askep &lt;br&gt;Impresi Klinis" vertex="1">
-          <mxGeometry height="30" width="60" x="720" y="270" as="geometry" />
+          <mxGeometry height="30" width="60" x="740" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="J7StTnS2y_UuYT5Cc5o7-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="E-Resep" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="J7StTnS2y_UuYT5Cc5o7-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="Farmasi" vertex="1">
+          <mxGeometry height="30" width="60" x="740" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="J7StTnS2y_UuYT5Cc5o7-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="Farmasi" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="J7StTnS2y_UuYT5Cc5o7-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="lab, rad,far,rtl" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="J7StTnS2y_UuYT5Cc5o7-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="Lab Rad" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="J7StTnS2y_UuYT5Cc5o7-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;rounded=0;fillStyle=hatch;" value="R&amp;amp;D" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="J7StTnS2y_UuYT5Cc5o7-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="Resume Diet" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
