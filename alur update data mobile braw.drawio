@@ -49,6 +49,15 @@
         <mxCell id="GmeXcCIJuXYtSq3rPGhk-15" edge="1" parent="1" source="GmeXcCIJuXYtSq3rPGhk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3WycPryOxmCTiB9P3QPI-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="A3ZknjWo3G4YdRaecqyy-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="WEB braw" vertex="1">
+          <mxGeometry height="510" width="200" x="740" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A3ZknjWo3G4YdRaecqyy-2" parent="A3ZknjWo3G4YdRaecqyy-1" style="rounded=0;whiteSpace=wrap;html=1;" value="pid&lt;br&gt;nama&lt;br&gt;no_dokter&lt;br&gt;nik" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="A3ZknjWo3G4YdRaecqyy-3" edge="1" parent="1" source="3WycPryOxmCTiB9P3QPI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="A3ZknjWo3G4YdRaecqyy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
