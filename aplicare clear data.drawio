@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="rylF_5nEBsVEYLodPyW-">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3142" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,13 +119,13 @@
           </mxCell>
         </UserObject>
         <UserObject label="" mermaidData="{&#xa;  &quot;data&quot;: &quot;flowchart TD\n  subgraph Source [Sistem Sumber]\n    A[Aplicare]\n  end\n\n  subgraph Target [Sistem Pengelola]\n    B[Aplikasi Tera]\n    C{Pilih Data}\n  end\n\n  A --&gt;|1. Tarik Data| B\n  B --&gt;|2. Identifikasi| C\n  C --&gt;|3. Perintah Hapus| D[Hapus Data di Aplicare]\n  D -.-&gt;|4. Sinkronisasi| A\n\n  style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px\n  style B fill:#fff3e0,stroke:#e65100,stroke-width:2px\n  style C fill:#fce4ec,stroke:#880e4f,stroke-width:2px\n  style D fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px&quot;,&#xa;  &quot;config&quot;: null&#xa;}" id="6up_rmKQrYnEDzE5fn6F-10">
-          <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
+          <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=1;groupPadding=10;" vertex="1">
             <mxGeometry as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Sistem Sumber" mermaidId="n:Source" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Sistem Sumber" id="6up_rmKQrYnEDzE5fn6F-11">
           <mxCell parent="6up_rmKQrYnEDzE5fn6F-10" style="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="124" width="189" x="97" y="910" as="geometry" />
+            <mxGeometry height="124" width="189" x="97" y="440" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Aplicare" mermaidId="n:A" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#e1f5fe;strokeColor=#01579b;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Aplicare" id="6up_rmKQrYnEDzE5fn6F-12">
@@ -135,7 +135,7 @@
         </UserObject>
         <UserObject label="Sistem Pengelola" mermaidId="n:Target" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Sistem Pengelola" id="6up_rmKQrYnEDzE5fn6F-13">
           <mxCell parent="6up_rmKQrYnEDzE5fn6F-10" style="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="319" width="220" x="172" y="1083" as="geometry" />
+            <mxGeometry height="319" width="220" x="172" y="613" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Aplikasi Tera" mermaidId="n:B" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#fff3e0;strokeColor=#e65100;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Aplikasi Tera" id="6up_rmKQrYnEDzE5fn6F-14">
@@ -157,16 +157,16 @@
         </UserObject>
         <UserObject label="Hapus Data di Aplicare" mermaidId="n:D" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#e8f5e9;strokeColor=#1b5e20;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Hapus Data di Aplicare" id="6up_rmKQrYnEDzE5fn6F-17">
           <mxCell parent="6up_rmKQrYnEDzE5fn6F-10" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#e8f5e9;strokeColor=#1b5e20;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="222" x="80" y="1471" as="geometry" />
+            <mxGeometry height="54" width="222" x="80" y="1001" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1. Tarik Data" mermaidId="e:A-&gt;B#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.89;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="1. Tarik Data" id="6up_rmKQrYnEDzE5fn6F-18">
           <mxCell edge="1" parent="6up_rmKQrYnEDzE5fn6F-10" source="6up_rmKQrYnEDzE5fn6F-12" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.89;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="6up_rmKQrYnEDzE5fn6F-14">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="282" y="1034" />
-                <mxPoint x="282" y="1069" />
-                <mxPoint x="282" y="1103" />
+                <mxPoint x="282" y="564" />
+                <mxPoint x="282" y="599" />
+                <mxPoint x="282" y="633" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -175,8 +175,8 @@
           <mxCell edge="1" parent="6up_rmKQrYnEDzE5fn6F-10" source="6up_rmKQrYnEDzE5fn6F-15" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.51;exitY=1;entryX=0.68;entryY=0;rounded=0;" target="6up_rmKQrYnEDzE5fn6F-17">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="282" y="1402" />
-                <mxPoint x="282" y="1437" />
+                <mxPoint x="282" y="932" />
+                <mxPoint x="282" y="967" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -185,14 +185,14 @@
           <mxCell edge="1" parent="6up_rmKQrYnEDzE5fn6F-10" source="6up_rmKQrYnEDzE5fn6F-17" style="curved=1;dashed=1;dashPattern=2 3;fixDash=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.32;exitY=0;entryX=0.1;entryY=1;rounded=0;" target="6up_rmKQrYnEDzE5fn6F-12">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="101" y="1437" />
-                <mxPoint x="101" y="1402" />
-                <mxPoint x="101" y="1314" />
-                <mxPoint x="101" y="1217" />
-                <mxPoint x="101" y="1155" />
-                <mxPoint x="101" y="1103" />
-                <mxPoint x="101" y="1069" />
-                <mxPoint x="101" y="1034" />
+                <mxPoint x="101" y="967" />
+                <mxPoint x="101" y="932" />
+                <mxPoint x="101" y="844" />
+                <mxPoint x="101" y="747" />
+                <mxPoint x="101" y="685" />
+                <mxPoint x="101" y="633" />
+                <mxPoint x="101" y="599" />
+                <mxPoint x="101" y="564" />
               </Array>
             </mxGeometry>
           </mxCell>
